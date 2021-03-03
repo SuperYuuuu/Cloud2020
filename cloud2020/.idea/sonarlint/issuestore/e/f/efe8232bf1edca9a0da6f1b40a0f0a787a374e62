@@ -1,0 +1,11 @@
+
+L
+java:S3740#"/Provide the parametrized type for this generic.(ˆ§ØÇ8‰úæ’ÿ.
+Q
+java:S3740%"/Provide the parametrized type for this generic.(¾ÖôÏşÿÿÿÿ8Ÿ¦ç’ÿ.
+L
+java:S1905*"*Remove this unnecessary cast to "Payment".(©ùßÀıÿÿÿÿ8àüŞ—ÿ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ğ“¼§8âÏİèı.
+g
+java:S1128"JRemove this unused import 'com.sun.xml.internal.bind.annotation.XmlIsSet'.(Ğ“¼§8âÏİèı.
