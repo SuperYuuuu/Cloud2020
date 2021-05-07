@@ -12,7 +12,18 @@ import org.hank.springcloud.entity.Payment;
 @Mapper
 public interface PaymentDao {
 
+    /**
+     * 创建
+     *
+     * @param payment
+     * @return
+     */
     int create(Payment payment);
 
+    /**
+     *
+     * @param id
+     * @return
+     */
     Payment getPaymentById(@Param("id") Long id);
 }

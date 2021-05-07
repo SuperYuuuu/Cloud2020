@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/cloud-api-commons/pom.xml">
           <value>
             <set />
@@ -33,7 +38,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/org/hank/springcloud/OrderHystrixController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/org/hank/springcloud/OrderHystrixMain80.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/org/hank/springcloud/controller/OrderHystrixController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/org/hank/springcloud/service/PaymentHystrixService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/org/hank/springcloud/OrderFeignMain80.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/org/hank/springcloud/controller/OrderFeignController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/org/hank/springcloud/service/PaymentFeignService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/cloud-consumer-order80/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/org/hank/myrule/MySelfRule.java">
           <value>
             <set />
           </value>
@@ -73,6 +133,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/org/hank/springcloud/OrderConsulMain80.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/org/hank/springcloud/config/ApplicationContextConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/org/hank/springcloud/controller/OrderConsulController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml">
           <value>
             <set />
@@ -104,6 +189,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-hygtrix-payment8001/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-hygtrix-payment8001/src/main/java/org/hank/springcloud/PaymentHystrixMain8001.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-hygtrix-payment8001/src/main/java/org/hank/springcloud/controller/PaymentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-hygtrix-payment8001/src/main/java/org/hank/springcloud/service/PaymentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-hygtrix-payment8001/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -179,6 +289,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8004/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8004/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8006/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8006/src/main/java/org/hank/springcloud/PaymentMain8006.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8006/src/main/java/org/hank/springcloud/controller/PaymentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8006/src/main/resources/application.yml">
           <value>
             <set />
           </value>
